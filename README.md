@@ -1,5 +1,9 @@
 # WifiWizard
 
+Verion 0.4.0
+
+Update permissions for Android
+
 Version 0.3.0
 
 `getCurrentBSSID` now available on Android.
